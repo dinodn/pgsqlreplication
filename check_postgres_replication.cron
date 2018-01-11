@@ -1,0 +1,2 @@
+
+0 * * * * root /usr/bin/check_postgres_replication >/dev/null 2>&1
